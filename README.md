@@ -12,6 +12,7 @@ This project involves the classification of credit scores and the mining of asso
 ## Table of Contents
 
 - [Group Members](#group-members)
+- [Installation](#installation)
 - [Importing Libraries](#importing-libraries)
 - [Data Preprocessing](#data-preprocessing)
   - [Data Cleaning](#data-cleaning)
@@ -31,6 +32,14 @@ This project involves the classification of credit scores and the mining of asso
 2. **Sannidhi Rao Ambaragonda** - A20550030
 3. **Sonali Sahu Patel** - A20539250
 4. **Sumanth Vuppu** - A20540921
+
+## Installation
+
+To run this project locally, ensure you have Python installed. You can install the required packages by running:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Importing Libraries
 
